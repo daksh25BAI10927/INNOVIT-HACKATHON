@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="280" height="200" fill="#F4EBD9"/>
+  <rect width="280" height="100" fill="#7A5C3A"/>
+  <text x="140" y="150" font-size="28" fill="#7A5C3A" text-anchor="middle" font-family="Poppins" font-weight="bold">Image</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dome -->
+  <path d="M20 15 Q32 5 44 15 Q48 20 48 25 Q48 35 32 40 Q16 35 16 25 Q16 20 20 15 Z" fill="#D4AF37" stroke="#8B4513" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Dome top -->
+  <path d="M28 20 L32 25 L36 20 Z" fill="#FAD5A5"/>
+  <!-- Base -->
+  <rect x="24" y="35" width="16" height="8" rx="2" fill="#F5DEB3" stroke="#8B4513" stroke-width="1"/>
+  <!-- Minarets -->
+  <rect x="14" y="15" width="4" height="16" rx="1.5" fill="#DEB887" stroke="#8B4513" stroke-width="0.5"/>
+  <path d="M12 15 Q14 10 16 15" fill="#D4AF37"/>
+  <rect x="46" y="15" width="4" height="16" rx="1.5" fill="#DEB887" stroke="#8B4513" stroke-width="0.5"/>
+  <path d="M50 15 Q48 10 46 15" fill="#D4AF37"/>
+  <!-- Lotus accent -->
+  <path d="M32 48 Q36 44 38 48 T32 56 Q26 48 28 48 Z" fill="#CD853F" stroke="#8B4513" stroke-width="0.5"/>
+</svg>
